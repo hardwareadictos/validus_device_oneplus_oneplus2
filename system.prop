@@ -75,7 +75,7 @@ persist.data.mode=concurrent
 ro.data.large_tcp_window_size=true
 
 # Data Power Manager (DPM)
-persist.dpm.feature=7
+persist.dpm.feature=0
 persist.env.fastdorm.enabled=true
 persist.sys.dpmd.nsrm=3
 
